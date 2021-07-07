@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = valenzuelagarza@gmail.com
+	name = Eduardo Valenzuela
